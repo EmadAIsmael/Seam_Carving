@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition/Seam_Carving.Problems-Function_composition.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition/Seam_Carving.Problems-Function_composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition/Seam_Carving.Problems-Function_composition.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition/Seam_Carving.Problems-Function_composition.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition/Seam_Carving.Problems-Function_composition.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition/Seam_Carving.Problems-Function_composition.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.test.iml" />
+    </modules>
+  </component>
+</project>

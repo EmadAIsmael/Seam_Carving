@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: '// TODO: provide isEven function here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5998#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 04 Jan 2021 22:41:26 UTC
+record: -1
