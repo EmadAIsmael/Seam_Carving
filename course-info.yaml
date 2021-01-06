@@ -6,5 +6,6 @@ summary: "Seam carving is an image processing technique for content aware image 
   \ image.<br/><br/>Learn more at <a href=\"https://hyperskill.org\">https://hyperskill.org/projects/100</a>"
 programming_language: Kotlin
 content:
+- Seam Carving
 - Problems
 mode: Study

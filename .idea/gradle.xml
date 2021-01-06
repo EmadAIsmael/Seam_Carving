@@ -11,7 +11,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/&quot;Not&quot; predicate" />
+            <option value="$PROJECT_DIR$/Problems/First predicate" />
             <option value="$PROJECT_DIR$/Problems/Function composition" />
+            <option value="$PROJECT_DIR$/Problems/Function composition (1)" />
+            <option value="$PROJECT_DIR$/Problems/Function generator" />
+            <option value="$PROJECT_DIR$/Problems/Max" />
+            <option value="$PROJECT_DIR$/Problems/Polynomial" />
+            <option value="$PROJECT_DIR$/Problems/Range multiplication" />
+            <option value="$PROJECT_DIR$/Seam Carving/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
