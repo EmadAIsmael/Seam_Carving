@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb8a50d6-ce1a-46fd-a5b9-94b04350b9e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Printing arguments/Seam_Carving.Problems__1_-Printing_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Printing arguments/Seam_Carving.Problems__1_-Printing_arguments.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Printing arguments/Seam_Carving.Problems__1_-Printing_arguments.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main~2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test~1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments (1)/Seam_Carving.Problems-Printing_arguments__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments (1)/Seam_Carving.Problems-Printing_arguments__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments (1)/Seam_Carving.Problems-Printing_arguments__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Seam_Carving.Problems-Printing_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Seam_Carving.Problems-Printing_arguments.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Seam_Carving.Problems-Printing_arguments.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/task.Seam_Carving.Seam_Carving-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Printing arguments (1)/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Printing arguments (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Printing arguments (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Printing arguments (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/Seam Carving.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/out2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/out3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/trees.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuba-project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam_Carving.Problems-_Not__predicate.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam_Carving.Problems-_Not__predicate.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam_Carving.Problems-_Not__predicate.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Function composition/out/production/classes/META-INF/Problems-Function_composition.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Function composition/out/production/classes/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Reversed output/out/production/classes/META-INF/Problems-Reversed_output.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Reversed output/out/production/classes/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Create an image/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Create an image/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/test/SeamCarvingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/test/SeamCarvingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mpDpeYEkiS5R0C2N7mvi2QV2QL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20023012" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Seam_Carving.Problems-Printing_arguments__1_.main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Knowledge is Power" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb8a50d6-ce1a-46fd-a5b9-94b04350b9e1" name="Default Changelist" comment="" />
+      <created>1610181830186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610181830186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

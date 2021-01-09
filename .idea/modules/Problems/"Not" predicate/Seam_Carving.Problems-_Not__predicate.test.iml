@@ -49,7 +49,7 @@
     <content url="file://$MODULE_DIR$/../../../../Problems/&quot;Not&quot; predicate/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Seam_Carving.Problems-_Not__predicate.main" />
+    <orderEntry type="module" module-name="Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main~1" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.10" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.4.10" level="project" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />

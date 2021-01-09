@@ -160,6 +160,18 @@ files:
         print("Hello, World!")
     }
   learner_created: false
+- name: test/out1.png
+  visible: true
+  learner_created: true
+- name: test/out2.png
+  visible: true
+  learner_created: true
+- name: test/out3.png
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/100/stages/550/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 09 Jan 2021 10:34:28 UTC
+record: 1

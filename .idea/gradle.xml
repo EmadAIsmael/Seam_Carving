@@ -5,8 +5,10 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="openjdk-15" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -18,6 +20,8 @@
             <option value="$PROJECT_DIR$/Problems/Help the Lord Commander" />
             <option value="$PROJECT_DIR$/Problems/Max" />
             <option value="$PROJECT_DIR$/Problems/Polynomial" />
+            <option value="$PROJECT_DIR$/Problems/Printing arguments" />
+            <option value="$PROJECT_DIR$/Problems/Printing arguments (1)" />
             <option value="$PROJECT_DIR$/Problems/Range multiplication" />
             <option value="$PROJECT_DIR$/Problems/Reversed output" />
             <option value="$PROJECT_DIR$/Seam Carving/task" />
