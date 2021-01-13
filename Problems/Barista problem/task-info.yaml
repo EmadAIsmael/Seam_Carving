@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write the EspressoMachine class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10751#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 12 Jan 2021 10:11:21 UTC
+record: -1

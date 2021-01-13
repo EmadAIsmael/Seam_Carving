@@ -171,6 +171,24 @@ files:
 - name: test/trees.png
   visible: false
   learner_created: false
+- name: test/small-energy.png
+  visible: true
+  learner_created: true
+- name: small.png
+  visible: true
+  learner_created: true
+- name: small-energy.png
+  visible: true
+  learner_created: true
+- name: test/blue-energy.png
+  visible: true
+  learner_created: true
+- name: test/trees-energy.png
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/100/stages/552/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 13 Jan 2021 23:09:42 UTC
+record: 3

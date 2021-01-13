@@ -8,9 +8,5 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10493#comment
-status: Unchecked
-feedback:
-  message: 'Corrupted task (no id): please, click "Solve in IDE" on <a href="https://hyperskill.org/learn/step/10493#comment">JetBrains
-    Academy</a> one more time'
-  time: Sat, 09 Jan 2021 18:05:38 UTC
+status: Solved
 record: -1

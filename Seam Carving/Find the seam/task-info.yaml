@@ -277,6 +277,17 @@ files:
 - name: test/trees.png
   visible: false
   learner_created: false
+- name: test/small-seam.png
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/100/stages/553/implement#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    Could not find seam pixel in row (0)
+
+    Arguments: -in test/small.png -out test/small-seam.png
+  time: Wed, 13 Jan 2021 23:03:41 UTC
+record: 4

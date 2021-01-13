@@ -8,22 +8,37 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="openjdk-15" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/&quot;Not&quot; predicate" />
+            <option value="$PROJECT_DIR$/Problems/Barista problem" />
+            <option value="$PROJECT_DIR$/Problems/Car price" />
+            <option value="$PROJECT_DIR$/Problems/Car speed" />
+            <option value="$PROJECT_DIR$/Problems/Deposit" />
+            <option value="$PROJECT_DIR$/Problems/Fabric manufacture" />
             <option value="$PROJECT_DIR$/Problems/First predicate" />
+            <option value="$PROJECT_DIR$/Problems/Fourth root" />
+            <option value="$PROJECT_DIR$/Problems/Fractional part" />
+            <option value="$PROJECT_DIR$/Problems/Frozen desserts" />
             <option value="$PROJECT_DIR$/Problems/Function composition" />
-            <option value="$PROJECT_DIR$/Problems/Function composition (1)" />
             <option value="$PROJECT_DIR$/Problems/Function generator" />
             <option value="$PROJECT_DIR$/Problems/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Problems/Heron's formula" />
             <option value="$PROJECT_DIR$/Problems/Max" />
+            <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
+            <option value="$PROJECT_DIR$/Problems/Perimeter" />
+            <option value="$PROJECT_DIR$/Problems/Pets" />
             <option value="$PROJECT_DIR$/Problems/Polynomial" />
+            <option value="$PROJECT_DIR$/Problems/Pow" />
             <option value="$PROJECT_DIR$/Problems/Printing arguments" />
-            <option value="$PROJECT_DIR$/Problems/Printing arguments (1)" />
+            <option value="$PROJECT_DIR$/Problems/Quadratic equation" />
             <option value="$PROJECT_DIR$/Problems/Range multiplication" />
             <option value="$PROJECT_DIR$/Problems/Reversed output" />
+            <option value="$PROJECT_DIR$/Problems/Sine and cosine" />
+            <option value="$PROJECT_DIR$/Problems/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Problems/URL" />
             <option value="$PROJECT_DIR$/Seam Carving/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
