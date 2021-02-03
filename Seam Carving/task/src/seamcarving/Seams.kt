@@ -31,7 +31,6 @@ class Seams(private val picture: Picture) {
         fun deltaXBorderCheck(y: Int, x: Int): Pair<Int, Int> {
             val xd = when (x) {
                 0 -> x + 1
-//                this.width() - 1 -> this.width() - 2
                 picArray[0].size - 1 -> picArray[0].size - 2
                 else -> x
             }
@@ -41,7 +40,6 @@ class Seams(private val picture: Picture) {
         fun deltaYBorderCheck(y: Int, x: Int): Pair<Int, Int> {
             val yd = when (y) {
                 0 -> y + 1
-//                this.height() - 1 -> this.height() - 2
                 picArray.size - 1 -> picArray.size - 2
                 else -> y
             }
@@ -50,8 +48,6 @@ class Seams(private val picture: Picture) {
 
         fun deltaXSqrd(y: Int, x: Int): Double {
             val (dy, dx) = deltaXBorderCheck(y, x)
-//            val left = Color(this.picture.getRGB(dx - 1, dy)).toArray()
-//            val right = Color(this.picture.getRGB(dx + 1, dy)).toArray()
             val left = Color(picArray[dy][dx - 1]).toArray()
             val right = Color(picArray[dy][dx + 1]).toArray()
             val diff = (left zip right).map { pair -> abs(pair.first - pair.second) }
@@ -61,8 +57,6 @@ class Seams(private val picture: Picture) {
 
         fun deltaYSqrd(y: Int, x: Int): Double {
             val (dy, dx) = deltaYBorderCheck(y, x)
-//            val up = Color(this.img.getRGB(dx, dy - 1)).toArray()
-//            val down = Color(this.img.getRGB(dx, dy + 1)).toArray()
             val up = Color(picArray[dy - 1][dx]).toArray()
             val down = Color(picArray[dy + 1][dx]).toArray()
             val diff = (up zip down).map { pair -> abs(pair.first - pair.second) }
@@ -149,11 +143,6 @@ class Seams(private val picture: Picture) {
         return seamList
     }
 
-    fun findVerticalSeam(): IntArray {
-        val seamList = seamList()
-        return findSeam(seamList)
-    }
-
     private fun findSeam(seamList: Array<Array<Weight>>): IntArray {
         val height = seamList.size
         val seam = IntArray(height)
@@ -182,37 +171,37 @@ class Seams(private val picture: Picture) {
         picture.save(outFile)
     }
 
+    fun findVerticalSeam(): IntArray {
+        val seamList = seamList()
+        return findSeam(seamList)
+    }
+
     fun removeVerticalSeam() {
         val seam = findVerticalSeam()
-
         for ((r, c) in seam.withIndex())
             picArray[r].removeAt(c)
     }
 
-    fun findHorizontalSeam(): IntArray {
-        picArray = Matrix(picArray).transpose().toMutableList()
-        val seamList = seamList()
-        picArray = Matrix(picArray).transpose().toMutableList()
-        return findSeam(seamList)
-//        val seam = findSeam(seamList)
-//        energyMap = Matrix(energyMap).transpose()
-//        this.horizontalSeamList = seamList
-//        return seam
-    }
+//    fun findHorizontalSeam(): IntArray {
+//        val seamList = seamList()
+//        return findSeam(seamList)
+//    }
 
     fun removeHorizontalSeam() {
-        val seam = findHorizontalSeam()
+        val seam = findVerticalSeam()
         for ((r, c) in seam.withIndex())
             picArray[r].removeAt(c)
     }
 
     fun drawHorizontalSeam(outFile: String) {
-        val seam = findHorizontalSeam()
-
+        picArray = Matrix(picArray).transpose().toMutableList()
+//        val seam = findHorizontalSeam()
+        val seam = findVerticalSeam()
         for ((y, x) in seam.withIndex()) {
             // exchange x, y; matrix was transposed.
             this.picture.setRGB(x, y, Color(255, 255, 0, 0).value)
         }
+        picArray = Matrix(picArray).transpose().toMutableList()
         picture.save(outFile)
     }
 
@@ -228,6 +217,12 @@ class Seams(private val picture: Picture) {
         repeat(w) {
             removeVerticalSeam()
         }
+
+        picArray = Matrix(picArray).transpose().toMutableList()
+        repeat(h) {
+            removeHorizontalSeam()
+        }
+        picArray = Matrix(picArray).transpose().toMutableList()
 
         val reduced = Picture(
             this.width() - widthToRemove,

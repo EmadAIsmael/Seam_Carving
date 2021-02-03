@@ -198,9 +198,6 @@ files:
 - name: src/seamcarving/Seams.kt
   visible: true
   learner_created: true
-- name: sky-reduced.png
-  visible: true
-  learner_created: true
 - name: test/blue-reduced.png
   visible: true
   learner_created: true
@@ -210,9 +207,12 @@ files:
 - name: test/trees-reduced.png
   visible: true
   learner_created: true
+- name: sky-reduced.png
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/100/stages/555/implement#comment
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 03 Feb 2021 01:54:49 UTC
+  time: Wed, 03 Feb 2021 19:22:43 UTC
 record: -1
