@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/312105/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Wed, 13 Jan 2021 22:56:13 UTC
+update_date: Tue, 02 Feb 2021 22:18:15 UTC
 stages:
 - id: 550
   step: 9015
@@ -16,31 +16,29 @@ stages:
   is_completed: true
 - id: 553
   step: 9018
-  is_completed: false
+  is_completed: true
 - id: 554
   step: 9019
-  is_completed: false
+  is_completed: true
 - id: 555
   step: 9020
-  is_completed: false
+  is_completed: true
 topics:
   0:
-  - title: External resources
-    theory_id: 6216
-  - title: Units of information
-    theory_id: 6865
-  - title: Files
-    theory_id: 6989
-  - title: Libraries
-    theory_id: 8504
   - title: Binary numbers
     theory_id: 5544
   - title: Hexadecimal numbers
     theory_id: 8788
+  - title: Modulo division
+    theory_id: 10586
   - title: Introduction to matrices
     theory_id: 7112
   - title: Types of matrices
     theory_id: 7285
+  - title: Units of information
+    theory_id: 6865
+  - title: Files
+    theory_id: 6989
   - title: Introduction to Kotlin
     theory_id: 4350
   - title: Basic literals
@@ -75,10 +73,6 @@ topics:
     theory_id: 11224
   - title: IDE
     theory_id: 10996
-  - title: RGB
-    theory_id: 8819
-  - title: Modulo division
-    theory_id: 10586
   - title: Arithmetic operations
     theory_id: 4472
   - title: Increment and decrement
@@ -129,8 +123,14 @@ topics:
     theory_id: 7243
   - title: Reading files
     theory_id: 6351
+  - title: External resources
+    theory_id: 6216
+  - title: Libraries
+    theory_id: 8504
   - title: IntelliJ IDEA
     theory_id: 3801
+  - title: RGB
+    theory_id: 8819
   1:
   - title: Introduction to operating systems
     theory_id: 9704
@@ -147,10 +147,6 @@ topics:
   - title: IntelliJ Run Configurations
     theory_id: 10630
   2:
-  - title: Introduction to OOP
-    theory_id: 3614
-  - title: Bugs and debugging
-    theory_id: 5504
   - title: Floating-point types
     theory_id: 4502
   - title: Default arguments
@@ -159,6 +155,10 @@ topics:
     theory_id: 4640
   - title: The Math library
     theory_id: 4563
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: Bugs and debugging
+    theory_id: 5504
   - title: Declaring classes
     theory_id: 6200
   - title: Constructors
@@ -172,16 +172,14 @@ topics:
   3:
   - title: Computer algorithms
     theory_id: 4953
-  - title: Recursion basics
-    theory_id: 5984
-  - title: Divide and conquer
-    theory_id: 3544
   - title: Introducing the first algorithm
     theory_id: 10336
   - title: The big O notation
     theory_id: 4991
   - title: Data structures
     theory_id: 5161
+  - title: Divide and conquer
+    theory_id: 3544
   - title: Graph
     theory_id: 6685
   - title: Basic terminology
@@ -202,6 +200,8 @@ topics:
     theory_id: 5772
   - title: Dynamic programming basics
     theory_id: 7948
+  - title: Recursion basics
+    theory_id: 5984
   4:
   - title: Operations with matrices
     theory_id: 7296

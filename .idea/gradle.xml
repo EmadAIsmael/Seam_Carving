@@ -13,9 +13,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/&quot;Not&quot; predicate" />
+            <option value="$PROJECT_DIR$/Problems/Adding arrays" />
             <option value="$PROJECT_DIR$/Problems/Barista problem" />
             <option value="$PROJECT_DIR$/Problems/Car price" />
             <option value="$PROJECT_DIR$/Problems/Car speed" />
+            <option value="$PROJECT_DIR$/Problems/Cutting the fraction" />
             <option value="$PROJECT_DIR$/Problems/Deposit" />
             <option value="$PROJECT_DIR$/Problems/Fabric manufacture" />
             <option value="$PROJECT_DIR$/Problems/First predicate" />
@@ -24,6 +26,7 @@
             <option value="$PROJECT_DIR$/Problems/Frozen desserts" />
             <option value="$PROJECT_DIR$/Problems/Function composition" />
             <option value="$PROJECT_DIR$/Problems/Function generator" />
+            <option value="$PROJECT_DIR$/Problems/Guard On The Gate" />
             <option value="$PROJECT_DIR$/Problems/Help the Lord Commander" />
             <option value="$PROJECT_DIR$/Problems/Heron's formula" />
             <option value="$PROJECT_DIR$/Problems/Max" />

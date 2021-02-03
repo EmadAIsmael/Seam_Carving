@@ -280,14 +280,24 @@ files:
 - name: test/small-seam.png
   visible: true
   learner_created: true
+- name: sky.png
+  visible: true
+  learner_created: true
+- name: sky-seam.png
+  visible: true
+  learner_created: true
+- name: test/trees-seam.png
+  visible: true
+  learner_created: true
+- name: test/blue-seam.png
+  visible: true
+  learner_created: true
+- name: sky-energy.png
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/100/stages/553/implement#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #1
-
-    Could not find seam pixel in row (0)
-
-    Arguments: -in test/small.png -out test/small-seam.png
-  time: Wed, 13 Jan 2021 23:03:41 UTC
+  message: Congratulations!
+  time: Thu, 28 Jan 2021 06:18:34 UTC
 record: 4

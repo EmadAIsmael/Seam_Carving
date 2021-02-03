@@ -1,0 +1,14 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // Do not initialize the backFromTheWall and returnedWatchman! It is already done.
+    TODO()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11488#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 14 Jan 2021 06:24:05 UTC
+record: -1

@@ -4,85 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb8a50d6-ce1a-46fd-a5b9-94b04350b9e1" name="Default Changelist" comment="Jan 10, 2021 01:30">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main~1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test~2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Seam_Carving.Problems-Perimeter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Seam_Carving.Problems-Perimeter.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Seam_Carving.Problems-Perimeter.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Barista problem/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Barista problem/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Barista problem/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Barista problem/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car price/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car price/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car price/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car price/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car speed/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car speed/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car speed/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Car speed/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Deposit/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Deposit/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Deposit/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Deposit/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fabric manufacture/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fabric manufacture/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fabric manufacture/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fabric manufacture/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fourth root/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fourth root/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fourth root/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fourth root/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fractional part/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fractional part/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fractional part/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fractional part/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Frozen desserts/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Frozen desserts/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Frozen desserts/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Frozen desserts/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Heron's formula/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Heron's formula/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Heron's formula/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Heron's formula/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Max of four numbers/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Max of four numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Max of four numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Max of four numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Perimeter/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Perimeter/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Perimeter/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Perimeter/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pets/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pets/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pets/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pets/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pow/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pow/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pow/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Pow/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Quadratic equation/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Quadratic equation/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Quadratic equation/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Quadratic equation/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sine and cosine/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sine and cosine/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sine and cosine/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sine and cosine/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The angle between vectors/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The angle between vectors/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The angle between vectors/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The angle between vectors/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/URL/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/URL/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/URL/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/URL/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seam Carving/task/small-energy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seam Carving/task/small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/blue-energy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/small-energy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/trees-energy.png" afterDir="false" />
+    <list default="true" id="bb8a50d6-ce1a-46fd-a5b9-94b04350b9e1" name="Default Changelist" comment="Jan 14, 2021 01:10">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Adding arrays/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Adding arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Adding arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Adding arrays/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cutting the fraction/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cutting the fraction/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cutting the fraction/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cutting the fraction/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Guard On The Gate/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Guard On The Gate/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Guard On The Gate/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Guard On The Gate/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/sky-energy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/sky-horizontal-seam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/sky-reduced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/sky-seam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/sky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Matrix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Picture.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Seams.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/blue-reduced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/blue-seam-hor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/blue-seam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/small-reduced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/small-seam-hor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/trees-reduced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/trees-seam-hor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seam Carving/task/test/trees-seam.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -99,49 +51,75 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Printing arguments/Seam_Carving.Problems__1_-Printing_arguments.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main~2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.main~2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test~1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam Carving.Problems.&quot;Not&quot; predicate.Seam_Carving.Problems-_Not__predicate.test~1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam_Carving.Problems-_Not__predicate.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/&quot;Not&quot; predicate/Seam_Carving.Problems-_Not__predicate.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Function composition (1)/Seam_Carving.Problems-Function_composition__1_.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments (1)/Seam_Carving.Problems-Printing_arguments__1_.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Function composition (1)/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Function composition (1)/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Function composition (1)/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Function composition (1)/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Function composition/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Function composition/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/&quot;Not&quot; predicate/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/&quot;Not&quot; predicate/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Barista problem/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Barista problem/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Barista problem/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Barista problem/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Car price/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Car price/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Car speed/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Car speed/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Deposit/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Deposit/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Fabric manufacture/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Fabric manufacture/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/First predicate/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/First predicate/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Fourth root/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Fourth root/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Fractional part/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Fractional part/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Fractional part/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Fractional part/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Frozen desserts/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Frozen desserts/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/Function composition/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Function composition/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Function composition/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Function composition/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments (1)/out/production/classes/META-INF/Problems-Printing_arguments__1_.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments (1)/out/production/classes/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments (1)/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments (1)/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments (1)/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments (1)/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing arguments/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing arguments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Function generator/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Function generator/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Help the Lord Commander/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Help the Lord Commander/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Heron's formula/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Heron's formula/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Max of four numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Max of four numbers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Max of four numbers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Max of four numbers/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Max/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Max/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Perimeter/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Perimeter/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Pets/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Pets/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Polynomial/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Polynomial/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Polynomial/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Polynomial/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Pow/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Pow/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Pow/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Pow/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Printing arguments/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing arguments/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Quadratic equation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Quadratic equation/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Range multiplication/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Range multiplication/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/Reversed output/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Reversed output/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Sine and cosine/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Sine and cosine/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The angle between vectors/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The angle between vectors/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/URL/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/URL/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Create an image/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Create an image/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/Find the seam/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Find the seam/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seam Carving/Look at energy/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Look at energy/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seam Carving/Negative photo/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Negative photo/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Find the seam/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Find the seam/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Horizontal seam/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Horizontal seam/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Horizontal seam/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Horizontal seam/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Look at energy/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Look at energy/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Negative photo/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Negative photo/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Resize/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Resize/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/Resize/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/Resize/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/java/test/CheckFailException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/classes/java/test/CheckFailException.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/java/test/OutFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/classes/java/test/OutFile.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/java/test/SeamCarvingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/classes/java/test/SeamCarvingTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/Picture$RunTimeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/Picture$RunTimeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/SeamCarver$energy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/SeamCarver$energy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/SeamCarver$energy$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/SeamCarver$energy$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin/main/seamcarving/SeamCarver.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
@@ -155,6 +133,7 @@
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
@@ -168,8 +147,16 @@
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/test-results/test/TEST-SeamCarvingTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/test-results/test/TEST-SeamCarvingTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/Picture$RunTimeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/Picture$RunTimeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/SeamCarver$energy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/SeamCarver$energy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/SeamCarver$energy$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/SeamCarver$energy$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/out/production/classes/seamcarving/SeamCarver.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/src/seamcarving/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seam Carving/task/test/SeamCarvingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/test/SeamCarvingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seam Carving/task/test/small-seam.png" beforeDir="false" afterPath="$PROJECT_DIR$/Seam Carving/task/test/small-seam.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,8 +169,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="KotlinCodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -201,7 +203,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../HELP_DESK/Argentin Loco/Assignment_20210107/Compte" />
+    <property name="kotlin.migration.detection.enabled" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kotlin_notes/hyperskill/Tutorial/Kotlin Developer Track/exercises/seam_carving/Graph" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20023012" />
@@ -217,7 +220,7 @@
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Seam_Carving.Seam_Carving-task.main" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="-in small.png -out small-energy.png" />
+      <option name="PROGRAM_PARAMETERS" value="-in sky.png -out sky-reduced.png -width 125 -height 50" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -258,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610235050305</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Jan 14, 2021 01:10">
+      <created>1610579479896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610579479896</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +317,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Jan 9, 2021 23:43" />
     <MESSAGE value="Jan 10, 2021 01:30" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan 10, 2021 01:30" />
+    <MESSAGE value="Jan 14, 2021 01:10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan 14, 2021 01:10" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.awt.image.BufferedImage" memberName="colorModel" />
+        <PinnedItemInfo parentTag="seamcarving.Picture" memberName="img" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.height()" />
+        <watch expression="this.width()" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

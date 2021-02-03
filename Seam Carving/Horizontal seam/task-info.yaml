@@ -17,7 +17,6 @@ files:
     import org.hyperskill.hstest.testcase.TestCase;
     import org.hyperskill.hstest.stage.StageTest;
     import org.hyperskill.hstest.testcase.CheckResult;
-    import seamcarving.MainKt;
 
     import javax.imageio.ImageIO;
     import java.awt.*;
@@ -226,10 +225,6 @@ files:
 
     public class SeamCarvingTest extends StageTest<OutFile> {
 
-        public SeamCarvingTest() {
-            super(MainKt.class);
-        }
-
         @Override
         public List<TestCase<OutFile>> generate() {
 
@@ -277,6 +272,21 @@ files:
 - name: test/trees.png
   visible: false
   learner_created: false
+- name: test/small-seam-hor.png
+  visible: true
+  learner_created: true
+- name: sky-horizontal-seam.png
+  visible: true
+  learner_created: true
+- name: test/blue-seam-hor.png
+  visible: true
+  learner_created: true
+- name: test/trees-seam-hor.png
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/100/stages/554/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 31 Jan 2021 21:12:45 UTC
+record: 5
